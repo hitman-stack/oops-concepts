@@ -1,0 +1,6 @@
+bin
+appsettings.json
+*.db
+obj
+launch.json
+tasks.json

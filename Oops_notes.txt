@@ -1,0 +1,1 @@
+Concrete class : Everything in the class is definded and implemented.
