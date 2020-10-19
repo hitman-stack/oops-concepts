@@ -14,6 +14,10 @@ namespace Inheritence
             RetailSalesPerson chandlerTheSalesman= new RetailSalesPerson("Chandler","Bing");
             Console.WriteLine(chandlerTheSalesman.FullName);
             chandlerTheSalesman.Sell();
+
+            WebDeveloper angularLearn= new WebDeveloper("Angular 10");
+            angularLearn.Code();
+            angularLearn.develop();
         }
     }
 }

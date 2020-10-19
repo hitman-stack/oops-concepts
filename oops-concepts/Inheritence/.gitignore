@@ -1,0 +1,12 @@
+bin
+appsettings.json
+*.db
+obj
+launch.json
+tasks.
+node_modules/
+.vscode/
+settings.json
+secretnotes.md
+imports/lib/
+public/fonts/
